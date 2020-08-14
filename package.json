@@ -1,7 +1,7 @@
 {
   "name": "hero-carousel",
   "version": "1.0.0",
-  "description": "A vanilla JS carousel to go at the top of your home page",
+  "description": "A basic vanilla JS carousel to go at the top of your home page",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,11 +14,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:alexclark-nz/hero-carousel.git"
+    "url": "https://github.com/alexclark-nz/hero-carousel"
   },
+  "author": "@AlexClark_NZ",
+  "license": "MIT",
   "files": [
     "style.css"
-  ],
-  "author": "@AlexClark_NZ",
-  "license": "MIT"
+  ]
 }
