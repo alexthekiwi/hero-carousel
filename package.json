@@ -1,6 +1,6 @@
 {
   "name": "hero-carousel",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A basic vanilla JS carousel to go at the top of your home page",
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,5 @@
     "url": "https://github.com/alexclark-nz/hero-carousel"
   },
   "author": "@AlexClark_NZ",
-  "license": "MIT",
-  "files": [
-    "style.css"
-  ]
+  "license": "MIT"
 }
