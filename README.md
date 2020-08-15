@@ -15,7 +15,7 @@ I built this package to practise my JavaScript and to have a go at my first time
 ```javascript
 import Carousel from "hero-carousel";
 
-new Carousel(".carousel", 3000);
+new Carousel(document.querySelector(".carousel"), 5000);
 ```
 
 ### HTML
@@ -34,7 +34,7 @@ new Carousel(".carousel", 3000);
         <a href="#0" class="carousel__slide-button">Find out more</a>
       </div>
       <img
-        src="./images/placeholder-1.jpg"
+        src="https://picsum.photos/1400/900"
         class="carousel__slide-image"
         alt="Image"
       />
@@ -51,7 +51,7 @@ new Carousel(".carousel", 3000);
         <a href="#0" class="carousel__slide-button">Find out more</a>
       </div>
       <img
-        src="./images/placeholder-2.jpg"
+        src="https://picsum.photos/1400/900"
         class="carousel__slide-image"
         alt="Image"
       />
@@ -69,7 +69,7 @@ new Carousel(".carousel", 3000);
         <a href="#0" class="carousel__slide-button">Find out more</a>
       </div>
       <img
-        src="./images/placeholder-3.jpg"
+        src="https://picsum.photos/1400/900"
         class="carousel__slide-image"
         alt="Image"
       />
