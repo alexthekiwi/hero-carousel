@@ -15,7 +15,7 @@ I built this package to practise my JavaScript and to have a go at my first time
 ```javascript
 import Carousel from "hero-carousel";
 
-const Carousel = new Carousel(".carousel", 3000);
+new Carousel(".carousel", 3000);
 ```
 
 ### HTML
