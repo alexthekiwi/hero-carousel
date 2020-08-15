@@ -2,6 +2,8 @@
 
 A pretty bare-bones masthead carousel made for myself to re-use parts of and customise for client sites. Has keyboard navigation support and basic swipe handling.
 
+I built this package to practise my JavaScript and to have a go at my first time creating an npm package. There are probably better ways to do things. Change things up however you like, suggestions welcome.
+
 ## Installation
 
 1. `npm install hero-carousel`
@@ -194,7 +196,3 @@ const Carousel = new Carousel(".carousel", 3000);
   cursor: pointer;
 }
 ```
-
-## Customisation
-
-I built this package to practise my JavaScript and to have a go at my first time creating an npm package. There are probably better ways to do things, but the easiest way I think to customise the CSS is to copy and paste my 'style.css' from within your node-modules folder and make it your own.
