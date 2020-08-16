@@ -1,8 +1,12 @@
 # Hero Carousel
 
-A pretty bare-bones masthead carousel made for myself to re-use parts of and customise for client sites. Has keyboard navigation support and basic swipe handling.
+A simple hero carousel I made for myself to re-use parts of and customise for client sites. Has keyboard navigation support and basic swipe handling. Pretty customisable through the HTML markup and CSS. My base setup is noted below.
 
-I built this package to practise my JavaScript and to have a go at my first time creating an npm package. There are probably better ways to do things. Change things up however you like, suggestions welcome.
+Change things up however you like, suggestions/contributions welcome.
+
+## Demo
+
+[https://hero-carousel.netlify.app/](https://hero-carousel.netlify.app/)
 
 ## Installation
 

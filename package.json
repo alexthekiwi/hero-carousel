@@ -1,6 +1,6 @@
 {
   "name": "hero-carousel",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A basic vanilla JS carousel to go at the top of your home page",
   "main": "index.js",
   "scripts": {
@@ -10,12 +10,15 @@
     "vanilla",
     "js",
     "hero",
-    "carousel"
+    "carousel",
+    "zero dependency",
+    "slider"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/alexclark-nz/hero-carousel"
   },
+  "homepage": "https://hero-carousel.netlify.app/",
   "author": "@AlexClark_NZ",
   "license": "MIT"
 }
